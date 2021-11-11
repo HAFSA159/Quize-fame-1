@@ -1,2 +1,2 @@
-# Quize-fame-1
+# Quize-game-1
 the first project
